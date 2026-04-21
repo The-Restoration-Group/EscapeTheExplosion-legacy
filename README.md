@@ -1,0 +1,1 @@
+The old, original copy of the game EscapeTheExplosion (by [@live-by-unix](https://github.com/live-by-unix)), this legacy version is also made by the same owner. The instructions are the exact same, to play, simply put the game folder into Godot.
