@@ -1,2 +1,3 @@
 The old, original copy of the game EscapeTheExplosion (by [@live-by-unix](https://github.com/live-by-unix)), this legacy version is also made by the same owner. The instructions are the exact same, to play, simply put the game folder into Godot.
-You can view the world record and the furthest possible run [here]([https://github.com/The-Restoration-Group/EscapeTheExplosion-legacy/tree/World-Record-Run](https://drive.google.com/file/d/1sD1B08AjLkbAB1_gPnCFwkTbbTaObDsu/view?usp=sharing)) (set by [@Vanish-Coder](https://github.com/Vanish-Coder)).
+**You can view the world record and the furthest possible run [here]([https://github.com/The-Restoration-Group/EscapeTheExplosion-legacy/tree/World-Record-Run](https://drive.google.com/file/d/1sD1B08AjLkbAB1_gPnCFwkTbbTaObDsu/view?usp=sharing)) (set by [@Vanish-Coder](https://github.com/Vanish-Coder)).
+**
